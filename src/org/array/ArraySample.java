@@ -10,6 +10,7 @@ public class ArraySample {
 		i.add(20);
 		i.add(30);
 		i.add(18);
+		i.add(80);
 		System.out.println(i);
 		
 		int size = i.size();
